@@ -1,9 +1,13 @@
 ## Quick install
-### Ensure you have forge installed 
+1. **[Ensure you have forge installed](https://ethereum-blockchain-developer.com/2022-06-nft-truffle-hardhat-foundry/14-foundry-setup/)**
 
-### Installing some cruical libraries into local
-- `forge install Layr-Labs/eigenlayer-middleware`
-- `forge install Vectorized/solday`
+2. **Installing some cruical libraries into local (run in terminal)**
+```shell
+$ forge install Layr-Labs/eigenlayer-middleware
+```
+```shell
+$ forge install Vectorized/solday
+```
 
 
 ## Foundry
