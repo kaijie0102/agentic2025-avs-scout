@@ -5,3 +5,5 @@
 	path = lib/eigenlayer-middleware
 	url = https://github.com/Layr-Labs/eigenlayer-middleware
 	branch = mainnet
+[submodule "lib/solady"]
+	path = lib/solady
