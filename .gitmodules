@@ -7,3 +7,4 @@
 	branch = mainnet
 [submodule "lib/solady"]
 	path = lib/solady
+	url = https://github.com/Vectorized/solady
