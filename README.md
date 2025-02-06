@@ -1,3 +1,11 @@
+## Quick install
+### Ensure you have forge installed 
+
+### Installing some cruical libraries into local
+- `forge install Layr-Labs/eigenlayer-middleware`
+- `forge install Vectorized/solday`
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
