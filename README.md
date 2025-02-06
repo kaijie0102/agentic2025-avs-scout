@@ -1,5 +1,5 @@
 ## Quick install
-1. **[Ensure you have forge installed](https://ethereum-blockchain-developer.com/2022-06-nft-truffle-hardhat-foundry/14-foundry-setup/)**
+1. **[Ensure you have foundry installed](https://ethereum-blockchain-developer.com/2022-06-nft-truffle-hardhat-foundry/14-foundry-setup/)**
 
 2. **Installing some cruical libraries into local (run in terminal)**
 ```shell
